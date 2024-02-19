@@ -1,0 +1,13 @@
+dash
+dash_table
+pandas
+plotly
+datetime
+tkinter
+pyperclip
+win32com.client
+numpy
+subprocess
+time
+dash-mantine-components
+plotly
